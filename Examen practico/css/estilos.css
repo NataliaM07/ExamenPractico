@@ -1,0 +1,58 @@
+.navbar-logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 50px;
+  }
+  .navbar-logo img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.contenedor-imagenes {
+    display: flex;
+}
+
+.contenedor-imagenes img:first-child {
+    margin-right: 10px;
+}
+h1{
+    color:dimgray;
+}
+table{
+    color:dimgray;
+}
+.centrarImagen
+{
+ text-align:center;
+ display:block;
+}
+#pie_de_pagina {
+	width: 100%;
+	background:darkgray;
+	border-top: 5px solid #ffffff
+}
+#pie_pagina {
+	width: 960px;
+	padding: 30px 10px;
+	margin: 0 auto;
+}
+
